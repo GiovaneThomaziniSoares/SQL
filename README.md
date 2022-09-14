@@ -1,2 +1,2 @@
-Nesta publicação, são demonstradas desde funções mais básicas até funções e queries mais complexas em SQL. Também é demonstrado limpeza de dados, usando a mesma linguagem.
+Nesta publicação, são demonstradas desde funções mais básicas até funções e queries mais complexas em SQL. Também é demonstrada a limpeza de dados, usando a mesma linguagem.
 As funções mais básicas são demonstradas especialmente no código SQL_code1.sql. Já funções e queries mais complexas são encontradas em SQL_code2.sql. Por fim, o código referente à limpeza é o SQL_code3.sql. Para este este último código, dois arquivos .xlsx são necessários. Tais arquivos encontram-se neste repositório.
